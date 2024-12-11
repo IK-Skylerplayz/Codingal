@@ -1,0 +1,13 @@
+name= input ('Enter your name ')
+age= input("Enter your age ")
+weight= input('Enter your weight ') 
+Isheaprogrammer=True
+print("My name is ",name)
+print("Name is data type ",type(name))
+print("Weight is data type ",type(weight))
+print("Age is data type ",type(age))
+print("Boolean testing",type(Isheaprogrammer))
+age1=int(age)
+weight=float(weight)
+print("\nWeight is data type ",type(weight))
+print("\nAge is data type ",type(age1))

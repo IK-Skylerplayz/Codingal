@@ -5,4 +5,4 @@ name="Elkan"
 age=10
 print(name)
 print(age)
-print(100)
+print("Deez nutz")
